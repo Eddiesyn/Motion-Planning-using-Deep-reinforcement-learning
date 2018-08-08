@@ -1,0 +1,13 @@
+{"motors":{
+    "l_shoulder_y": {
+      "id": 41,
+      "orientation": "direct",
+      "type": "MX-28",
+      "angle_limit": [
+        -120,
+        155.03
+      ],
+      "offset": 90
+    }
+	}
+}

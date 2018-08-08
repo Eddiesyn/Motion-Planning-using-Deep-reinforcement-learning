@@ -1,0 +1,1 @@
+This is a project, using *Deep deterministic policy gradient* to solve the motion planning of Poppy-Humanoid robot arm. The robot arm will reach any point on the table while avoiding collision of the table. 
